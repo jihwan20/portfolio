@@ -30,9 +30,20 @@
 ### 1. CAST : 호텔 및 축제 예약 추천 사이트
 
 > 주요기능: 호텔예약, 결제, 축제추천, 장바구니 등록 </br>
-> 기술스택:
+> 기술스택: </br>
+>+ IDE :  Spring Tool Suite 4
+>+ 데이터베이스: MariaDB
+>+ BackEnd: Java, SQL
+>+ FrontEnd: jQuery, JavaScript, Ajax, Bootstrap4
+>+ Frameworks: Spring Framework, MyBatis
+>+ Libraries: Lombok, JSTL
 
 ### 2. 일정관리 애플리케이션
 
 > 주요기능: 일정등록, 1시간전 알림, 위치기반 알림 </br>
-> 기술스택:
+> 기술스택: </br>
+>+ IDE :  Android Studio
+>+ 데이터베이스: SQlite
+>+ BackEnd: 로컬 데이터 처리를 위한 SQLite
+>+ FrontEnd: XML 기반 UI 디자인
+>+ Libraries: Google map Api
