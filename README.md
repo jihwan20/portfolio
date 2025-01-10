@@ -50,7 +50,7 @@
 >+ Libraries: Google map Api
 
 구현화면  
-[Image](/project_image/list.png)
+![Image](./project_image/list.png)
 > [github](https://github.com/jihwan20/Capstone_Todo)
 
 
