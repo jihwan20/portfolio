@@ -36,7 +36,14 @@
 >+ BackEnd: Java, SQL
 >+ FrontEnd: jQuery, JavaScript, Ajax, Bootstrap4
 >+ Frameworks: Spring Framework, MyBatis
->+ Libraries: Lombok, JSTL  
+>+ Libraries: Lombok, JSTL
+
+구현화면  
+![Image](./images/list.PNG)
+<span style="text_align:center">호텔 및 축제 목록</span>
+
+![Image](./images/wish.PNG)
+
 > [github](https://github.com/tjdekf112/A2)
 
 ## 2. 일정관리 애플리케이션
@@ -49,8 +56,6 @@
 >+ FrontEnd: XML 기반 UI 디자인
 >+ Libraries: Google map Api
 
-구현화면  
-![Image](./project_image/list.png)
 > [github](https://github.com/jihwan20/Capstone_Todo)
 
 
