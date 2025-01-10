@@ -12,7 +12,16 @@
 
 ## 🛠️ Skill
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,mysql,sqlite,spring,androidstudio,aws,bootstrap,css,html,jquery)](https://skillicons.dev)
+>+ 언어<br/>
+[![My Skills](https://skillicons.dev/icons?i=c,java)](https://skillicons.dev)
+>+ 데이터베이스<br/>
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql)](https://skillicons.dev)
+>+ 백엔드<br/>
+[![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+>+ 프론트엔드<br/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,javascript)](https://skillicons.dev)
+>+ IDE 및 플랫폼<br/>
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,aws)](https://skillicons.dev)
 
 ## ✏️ Education
 
@@ -38,11 +47,15 @@
 >+ Frameworks: Spring Framework, MyBatis
 >+ Libraries: Lombok, JSTL
 
-구현화면  
-![Image](./images/list.PNG)
-<span style="text_align:center">호텔 및 축제 목록</span>
+## 구현화면
 
-![Image](./images/wish.PNG)
+![Image](./images/list.PNG)<br>
+
+<b><div align="center"><호텔 및 축제 목록></div></b><br>
+
+![Image](./images/wish.PNG)<br>
+
+<b><div align="center"><장바구니 추가 기능></div></b>  
 
 > [github](https://github.com/tjdekf112/A2)
 
