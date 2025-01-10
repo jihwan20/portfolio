@@ -69,6 +69,26 @@
 >+ FrontEnd: XML 기반 UI 디자인
 >+ Libraries: Google map Api
 
+## 구현화면
+<table>
+  <tr>
+    <td align="center">
+      <img src = "./images/time.png" width = "50%" height = "50%">  
+    </td>
+    <td align="center">
+      <img src = "./images/location.png" width = "50%" height = "50%">  
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><div align="center"><1시간전 알림 기능></div></b>
+    </td>
+    <td>
+      <b><div align="center"><위치기반 알림 기능></div></b>
+    </td>
+  </tr>
+</table>
+
 > [github](https://github.com/jihwan20/Capstone_Todo)
 
 
