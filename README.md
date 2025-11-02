@@ -13,7 +13,7 @@
 ## 🛠️ Skill
 
 >+ 언어<br/>
-[![My Skills](https://skillicons.dev/icons?i=c,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python)](https://skillicons.dev)
 >+ 데이터베이스<br/>
 [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql)](https://skillicons.dev)
 >+ 백엔드<br/>
@@ -34,6 +34,9 @@
 >서원대학교(4년제) - 컴퓨터공학과/학사(졸업예정) </br>
 >2023.03 - 2025.02
 
+>프로그래머스 데브코스 - 데이터 엔지니어링(수강중) </br>
+>2025.09.12 - 2025.01.09
+
 # 💻 Project
 
 ## 1. CAST : 호텔 및 축제 예약 추천 사이트(팀프로젝트)
@@ -50,15 +53,17 @@
 
 ## 구현화면
 
-![Image](./images/list.PNG)<br>
+![Image](./images/1,%20CAST/list.PNG)<br>
 
 <b><div align="center"><호텔 및 축제 목록></div></b><br>
 
-![Image](./images/wish.PNG)<br>
+![Image](./images/1,%20CAST/wish.PNG)<br>
 
 <b><div align="center"><장바구니 추가 기능></div></b>  
 
-> [github](https://github.com/tjdekf112/A2)
+## 자료
+
+> github : https://github.com/tjdekf112/A2
 
 ## 2. 일정관리 애플리케이션
 
@@ -74,10 +79,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src = "./images/time.png" width = "50%" height = "50%">  
+      <img src = "./images/2.%20TodoApp/time.png" width = "50%" height = "50%">  
     </td>
     <td align="center">
-      <img src = "./images/location.png" width = "50%" height = "50%">  
+      <img src = "./images/2.%20TodoApp/location.png" width = "50%" height = "50%">  
     </td>
   </tr>
   <tr>
@@ -90,6 +95,29 @@
   </tr>
 </table>
 
-> [github](https://github.com/jihwan20/Capstone_Todo)
+## 자료
 
+> github : https://github.com/jihwan20/Capstone_Todo
 
+## 3. 드라마 트렌드 시각화
+
+> 주요기능: 장르별 드라마 순위, 연도별 드라마 순위, 드라마 언급수에 대한 차트
+> 기술스택:
+>+ Crawling: python, Selenium, Httpx
+>+ Backend: Django, Django ORM, SQLite, Python, uv
+>+ Front: Html, Chart .js
+
+## 구현화면
+![Image](./images/3.%20DramaTrend/trend_main.png)<br>
+
+<b><div align="center"><드라마 전체 목록></div></b><br>
+
+![Image](./images/3.%20DramaTrend/trend_chart.png)<br>
+
+<b><div align="center"><시청률 순위 차트></div></b>  
+
+## 자료
+
+> Notion: https://www.notion.so/Team5_-27a6e9180a9680c2ad79ce1821cf6eb1?source=copy_link </br>
+> github: https://github.com/devcourse-de7-1-team-5 </br>
+> 발표영상: https://youtu.be/INrAurclrjs </br>
