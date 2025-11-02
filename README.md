@@ -35,9 +35,9 @@
 >2023.03 - 2025.02
 
 >프로그래머스 데브코스 - 데이터 엔지니어링(수강중) </br>
->2025.09.12 - 2025.01.09
+>2025.09.12 - 2026.01.09
 
-# 💻 Project
+## 💻 Project
 
 ## 1. CAST : 호텔 및 축제 예약 추천 사이트(팀프로젝트)
 
@@ -53,17 +53,20 @@
 
 ## 구현화면
 
-![Image](./images/1,%20CAST/list.PNG)<br>
-
+<div align="center">
+  <img src = "./images/1.%20CAST/list.PNG" width = "75%" height = "75%">
+</div>
 <b><div align="center"><호텔 및 축제 목록></div></b><br>
 
-![Image](./images/1,%20CAST/wish.PNG)<br>
+<div align="center">
+  <img src = "./images/1.%20CAST/wish.PNG" width = "75%" height = "75%">
+</div>
 
 <b><div align="center"><장바구니 추가 기능></div></b>  
 
 ## 자료
 
-> github : https://github.com/tjdekf112/A2
+>+ github : https://github.com/tjdekf112/A2
 
 ## 2. 일정관리 애플리케이션
 
@@ -97,7 +100,7 @@
 
 ## 자료
 
-> github : https://github.com/jihwan20/Capstone_Todo
+>+ github : https://github.com/jihwan20/Capstone_Todo
 
 ## 3. 드라마 트렌드 시각화
 
@@ -108,16 +111,50 @@
 >+ Front: Html, Chart .js
 
 ## 구현화면
-![Image](./images/3.%20DramaTrend/trend_main.png)<br>
+
+<div align="center">
+  <img src = "./images/3.%20DramaTrend/trend_main.png" width = "75%" height = "75%">
+</div>
 
 <b><div align="center"><드라마 전체 목록></div></b><br>
 
-![Image](./images/3.%20DramaTrend/trend_chart.png)<br>
+
+<div align="center">
+  <img src = "./images/3.%20DramaTrend/trend_chart.png" width = "75%" height = "75%">
+</div>
 
 <b><div align="center"><시청률 순위 차트></div></b>  
 
 ## 자료
 
-> Notion: https://www.notion.so/Team5_-27a6e9180a9680c2ad79ce1821cf6eb1?source=copy_link </br>
-> github: https://github.com/devcourse-de7-1-team-5 </br>
-> 발표영상: https://youtu.be/INrAurclrjs </br>
+>+ Notion: https://www.notion.so/Team5_-27a6e9180a9680c2ad79ce1821cf6eb1?source=copy_link </br>
+>+ github: https://github.com/devcourse-de7-1-team-5 </br>
+
+## 4. 농산물 우수관리(GAP) 인증정보 대시보드
+
+> 주요기능:
+> 기술스택:
+>+ 데이터 수집: Python, Pandas
+>+ AWS: AWS S3, Redshift Serverless
+>+ 시각화: Apache Superset 
+>+ 협업/관리: GitHub, Notion, Slack
+
+## 구현화면
+
+<div align="center">
+  <img src = "./images/4.%20GapData/gap_status .png" width = "75%" height = "75%">
+</div>
+
+<b><div align="center"><지역별 인증 현황></div></b><br>
+
+
+<div align="center">
+  <img src = "./images/4.%20GapData/gap_display.png" width = "75%" height = "75%">
+</div>
+
+<b><div align="center"><품목별/연도별 인증 추세></div></b>
+
+## 자료
+
+>+ Notion: https://www.notion.so/TEAM2_-2926e9180a96807f86dee76027dbb347?source=copy_link </br>
+>+ github: https://github.com/de7-2-team2/de7-team2-project </br>
